@@ -2,3 +2,4 @@ This is file1.
 First file1 update at 8:36pm.
 Ready for first branch.
 Add new line from features branch
+Add second new line from features
